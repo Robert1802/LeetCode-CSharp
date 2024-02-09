@@ -1,4 +1,6 @@
-﻿static int[] TwoSum(int[] nums, int target)
+﻿// https://leetcode.com/problems/two-sum/description/
+
+static int[] TwoSum(int[] nums, int target)
 {
     int[] result = new int[2];
 
