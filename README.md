@@ -5,9 +5,10 @@ Vou deixar o link de cada teste e do meu codigo nessa pagina
 
 ---
 
-- 0001 - Two Sum                - [LeetCode](https://leetcode.com/problems/two-sum/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0001_TwoSum/Program.cs)
-- 0009 - Palindrome Number      - [LeetCode](https://leetcode.com/problems/palindrome-number/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0009_PalindromeNumber/Program.cs)
-- 0013 - Roman To Integrer      - [LeetCode](https://leetcode.com/problems/roman-to-integer/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0013_RomanToInt/Program.cs)
-- 0014 - Longest Common Prefix  - [LeetCode](https://leetcode.com/problems/longest-common-prefix/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0014_LongestCommonPrefix/Program.cs)
-- 0020 - Valid Parentheses      - [LeetCode](https://leetcode.com/problems/valid-parentheses/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0020_ValidParentheses/Program.cs)
-- 1929 - Concatenation of Array - [LeetCode](https://leetcode.com/problems/concatenation-of-array/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/1929_ConcatenationOfArray/Program.cs)
+- 0001 - Two Sum                      - [LeetCode](https://leetcode.com/problems/two-sum/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0001_TwoSum/Program.cs)
+- 0009 - Palindrome Number            - [LeetCode](https://leetcode.com/problems/palindrome-number/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0009_PalindromeNumber/Program.cs)
+- 0013 - Roman To Integrer            - [LeetCode](https://leetcode.com/problems/roman-to-integer/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0013_RomanToInt/Program.cs)
+- 0014 - Longest Common Prefix        - [LeetCode](https://leetcode.com/problems/longest-common-prefix/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0014_LongestCommonPrefix/Program.cs)
+- 0020 - Valid Parentheses            - [LeetCode](https://leetcode.com/problems/valid-parentheses/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0020_ValidParentheses/Program.cs)
+- 1920 - Build Array from Permutation - [LeetCode](https://leetcode.com/problems/build-array-from-permutation/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/1920_BuildArrayFromPermutation/Program.cs)
+- 1929 - Concatenation of Array       - [LeetCode](https://leetcode.com/problems/concatenation-of-array/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/1929_ConcatenationOfArray/Program.cs)
