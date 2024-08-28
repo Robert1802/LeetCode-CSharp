@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001_TwoSum", "001_TwoSum\0001_TwoSum.csproj", "{5CA0BD7B-A6D6-486B-A01B-23BD78CBD0B1}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009_PalindromeNumber", "009-PalindromeNumber\0009_PalindromeNumber.csproj", "{F03E783E-ED9F-49A1-B7F9-2008D1A5A815}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0013_RomanToInt", "013_RomanToInt\0013_RomanToInt.csproj", "{B0E3CA6A-DB0A-450B-ACCB-51FAC38031EF}"
@@ -23,16 +21,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0003_LongestSubstring", "00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0004_MedianOfTwoSortedArrays", "0004_MedianOfTwoSortedArrays\0004_MedianOfTwoSortedArrays.csproj", "{334CBC34-16D0-4F55-941F-DB6B6D35D811}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001_TwoSum", "0001_TwoSum\0001_TwoSum.csproj", "{72D8828A-24C7-4897-9E13-D587D9DD4D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0026_RemoveDuplicatesFromSortedArray", "0026_RemoveDuplicatesFromSortedArray\0026_RemoveDuplicatesFromSortedArray.csproj", "{21CD45D7-1880-48E6-861B-BE5B587D179F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5CA0BD7B-A6D6-486B-A01B-23BD78CBD0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CA0BD7B-A6D6-486B-A01B-23BD78CBD0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CA0BD7B-A6D6-486B-A01B-23BD78CBD0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CA0BD7B-A6D6-486B-A01B-23BD78CBD0B1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F03E783E-ED9F-49A1-B7F9-2008D1A5A815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F03E783E-ED9F-49A1-B7F9-2008D1A5A815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F03E783E-ED9F-49A1-B7F9-2008D1A5A815}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +67,14 @@ Global
 		{334CBC34-16D0-4F55-941F-DB6B6D35D811}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{334CBC34-16D0-4F55-941F-DB6B6D35D811}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{334CBC34-16D0-4F55-941F-DB6B6D35D811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D8828A-24C7-4897-9E13-D587D9DD4D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D8828A-24C7-4897-9E13-D587D9DD4D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D8828A-24C7-4897-9E13-D587D9DD4D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D8828A-24C7-4897-9E13-D587D9DD4D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CD45D7-1880-48E6-861B-BE5B587D179F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CD45D7-1880-48E6-861B-BE5B587D179F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CD45D7-1880-48E6-861B-BE5B587D179F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CD45D7-1880-48E6-861B-BE5B587D179F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
