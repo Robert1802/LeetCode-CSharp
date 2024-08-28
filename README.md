@@ -7,6 +7,7 @@ Vou deixar o link de cada teste e do meu codigo nessa pagina
 
 - 0001 - Two Sum                                         - [LeetCode](https://leetcode.com/problems/two-sum/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0001_TwoSum/Program.cs)
 - 0003 - Longest Substring Without Repeating Characters  - [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0003_LongestSubstring/Program.cs)
+- 0004 - Median of Two Sorted Arrays                     - [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0004_MedianOfTwoSortedArrays/Program.cs)
 - 0009 - Palindrome Number                               - [LeetCode](https://leetcode.com/problems/palindrome-number/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0009_PalindromeNumber/Program.cs)
 - 0013 - Roman To Integrer                               - [LeetCode](https://leetcode.com/problems/roman-to-integer/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0013_RomanToInt/Program.cs)
 - 0014 - Longest Common Prefix                           - [LeetCode](https://leetcode.com/problems/longest-common-prefix/) - [Solucao](https://github.com/Robert1802/LeetCode-CSharp/blob/master/0014_LongestCommonPrefix/Program.cs)

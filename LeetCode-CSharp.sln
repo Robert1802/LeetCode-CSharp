@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1920_BuildArrayFromPermutat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0021_MergeTwoSortedLists", "0021_MergeTwoSortedLists\0021_MergeTwoSortedLists.csproj", "{67C3BE49-47A8-4591-93F7-F58980219BE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003_LongestSubstring", "0003_LongestSubstring\0003_LongestSubstring.csproj", "{986E951E-6EEF-43CE-BC17-5A8D38835C08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0003_LongestSubstring", "0003_LongestSubstring\0003_LongestSubstring.csproj", "{986E951E-6EEF-43CE-BC17-5A8D38835C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0004_MedianOfTwoSortedArrays", "0004_MedianOfTwoSortedArrays\0004_MedianOfTwoSortedArrays.csproj", "{334CBC34-16D0-4F55-941F-DB6B6D35D811}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{986E951E-6EEF-43CE-BC17-5A8D38835C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986E951E-6EEF-43CE-BC17-5A8D38835C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{986E951E-6EEF-43CE-BC17-5A8D38835C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334CBC34-16D0-4F55-941F-DB6B6D35D811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334CBC34-16D0-4F55-941F-DB6B6D35D811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334CBC34-16D0-4F55-941F-DB6B6D35D811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334CBC34-16D0-4F55-941F-DB6B6D35D811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
