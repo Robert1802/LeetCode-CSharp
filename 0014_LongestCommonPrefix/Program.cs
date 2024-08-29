@@ -22,12 +22,12 @@ Explanation: There is no common prefix among the input strings.
 
 static string LongestCommonPrefix(string[] strs)
 {
-	string currentPrefix = "";
+    string currentPrefix = "";
     var sorted = strs.OrderBy(n => n.Length);
     var shortest = sorted.FirstOrDefault();
     if (shortest.Length == 1)
     {
-        int divisor = strs.Count(p => p.Substring(0, 1) != strs[0].Substring(0,1));
+        int divisor = strs.Count(p => p.Substring(0, 1) != strs[0].Substring(0, 1));
         if (divisor > 0)
         {
             return "";
@@ -40,9 +40,9 @@ static string LongestCommonPrefix(string[] strs)
         currentPrefix = strs[0].Substring(0, 1 + i);
         for (int j = 0; j < strs.Length; j++)
         {
-            Console.WriteLine(strs[j].Substring(0,1 + i));
+            Console.WriteLine(strs[j].Substring(0, 1 + i));
             if (currentPrefix != strs[j].Substring(0, 1 + i))
-                return strs[j].Substring(0,i);
+                return strs[j].Substring(0, i);
         }
     }
     return currentPrefix;
