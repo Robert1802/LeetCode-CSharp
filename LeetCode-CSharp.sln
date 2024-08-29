@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0021_MergeTwoSortedLists", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0003_LongestSubstring", "0003_LongestSubstring\0003_LongestSubstring.csproj", "{986E951E-6EEF-43CE-BC17-5A8D38835C08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0004_MedianOfTwoSortedArrays", "0004_MedianOfTwoSortedArrays\0004_MedianOfTwoSortedArrays.csproj", "{334CBC34-16D0-4F55-941F-DB6B6D35D811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0004_MedianOfTwoSortedArrays", "0004_MedianOfTwoSortedArrays\0004_MedianOfTwoSortedArrays.csproj", "{334CBC34-16D0-4F55-941F-DB6B6D35D811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001_TwoSum", "0001_TwoSum\0001_TwoSum.csproj", "{72D8828A-24C7-4897-9E13-D587D9DD4D2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001_TwoSum", "0001_TwoSum\0001_TwoSum.csproj", "{72D8828A-24C7-4897-9E13-D587D9DD4D2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0026_RemoveDuplicatesFromSortedArray", "0026_RemoveDuplicatesFromSortedArray\0026_RemoveDuplicatesFromSortedArray.csproj", "{21CD45D7-1880-48E6-861B-BE5B587D179F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0026_RemoveDuplicatesFromSortedArray", "0026_RemoveDuplicatesFromSortedArray\0026_RemoveDuplicatesFromSortedArray.csproj", "{21CD45D7-1880-48E6-861B-BE5B587D179F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0027_RemoveElement", "0027_RemoveElement\0027_RemoveElement.csproj", "{F85C9F84-BA27-462A-831F-254376DF8514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{21CD45D7-1880-48E6-861B-BE5B587D179F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21CD45D7-1880-48E6-861B-BE5B587D179F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21CD45D7-1880-48E6-861B-BE5B587D179F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85C9F84-BA27-462A-831F-254376DF8514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85C9F84-BA27-462A-831F-254376DF8514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85C9F84-BA27-462A-831F-254376DF8514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85C9F84-BA27-462A-831F-254376DF8514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
