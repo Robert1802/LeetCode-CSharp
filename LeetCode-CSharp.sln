@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020_ValidParentheses", "00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0005_LongestPalindromicSubstring", "0005_LongestPalindromicSubstring\0005_LongestPalindromicSubstring.csproj", "{927E0D3A-DF9F-411A-9148-E1CDAEAA8C1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002_AddTwoNumbers", "0002_AddTwoNumbers\0002_AddTwoNumbers.csproj", "{393E126D-EDA3-417D-A00E-4296F04B183A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{927E0D3A-DF9F-411A-9148-E1CDAEAA8C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{927E0D3A-DF9F-411A-9148-E1CDAEAA8C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{927E0D3A-DF9F-411A-9148-E1CDAEAA8C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393E126D-EDA3-417D-A00E-4296F04B183A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393E126D-EDA3-417D-A00E-4296F04B183A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393E126D-EDA3-417D-A00E-4296F04B183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393E126D-EDA3-417D-A00E-4296F04B183A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
