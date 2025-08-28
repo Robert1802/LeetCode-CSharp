@@ -3,9 +3,9 @@
 
 static bool IsPalindrome(int x)
 {
-    string palindrome = x.ToString();
-    string reversePalindrome = new(palindrome.Reverse().ToArray());
-    return palindrome == reversePalindrome;
+    string word = x.ToString();
+    string reverseWord = new(word.Reverse().ToArray());
+    return word == reverseWord;
 }
 
 int input = 121;
