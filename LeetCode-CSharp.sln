@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1920_BuildArrayFromPermutat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1929_ConcatenationOfArray", "Projects\1929_ConcatenationOfArray\1929_ConcatenationOfArray.csproj", "{C56542D2-F6D1-23BF-008B-4BFEB4765FD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0006_ZigzagConversion", "Projects\0006_ZigzagConversion\0006_ZigzagConversion.csproj", "{9FB22793-56B1-41A6-BD4F-BE2F6D66A1B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C56542D2-F6D1-23BF-008B-4BFEB4765FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C56542D2-F6D1-23BF-008B-4BFEB4765FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C56542D2-F6D1-23BF-008B-4BFEB4765FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB22793-56B1-41A6-BD4F-BE2F6D66A1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB22793-56B1-41A6-BD4F-BE2F6D66A1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB22793-56B1-41A6-BD4F-BE2F6D66A1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB22793-56B1-41A6-BD4F-BE2F6D66A1B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

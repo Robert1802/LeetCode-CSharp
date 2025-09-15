@@ -1,7 +1,8 @@
 # C# - LeetCode
 
-My repo to train Leetcode algorithms.
-I will leave the link to each test and my code on this page
+My repo to train Leetcode algorithms.<br/>
+I will leave the link to each challenge and my code on this page.<br/>
+[LeetCode](https://leetcode.com/problemset)
 
 ---
 
