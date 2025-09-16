@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0007_ReverseInteger", "Proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768_MergeStringsAlternately", "Projects\1768_MergeStringsAlternately\1768_MergeStringsAlternately.csproj", "{7F01F06D-2E47-412A-BB0B-CD18D4679109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1071_GreatestCommonDivisorOfStrings", "Projects\1071_GreatestCommonDivisorOfStrings\1071_GreatestCommonDivisorOfStrings.csproj", "{F973A2CD-10AA-43DC-8C77-3D8CF06DC1F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{7F01F06D-2E47-412A-BB0B-CD18D4679109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F01F06D-2E47-412A-BB0B-CD18D4679109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F01F06D-2E47-412A-BB0B-CD18D4679109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F973A2CD-10AA-43DC-8C77-3D8CF06DC1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F973A2CD-10AA-43DC-8C77-3D8CF06DC1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F973A2CD-10AA-43DC-8C77-3D8CF06DC1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F973A2CD-10AA-43DC-8C77-3D8CF06DC1F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
